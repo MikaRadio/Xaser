@@ -2,6 +2,7 @@
 
 <item>
 <title>Regreso al Futuro</title>
-<imagen enlace="http://mikaradio.com/xaser/regreso1.jpg"></imagen>
+<a href="http://mikaradio.com/xaser/regreso1.jpg">
+  <img src="http://mikaradio.com/xaser/regreso1.jpg"</a>
 <urlsolve>http://mikaradio.com/pelis/regreso1.mkv</urlsolve>
 </item>
