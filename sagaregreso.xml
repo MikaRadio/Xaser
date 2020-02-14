@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title> SAGA Regreso al Futuro</title>
-<thumbnail>http://mikaradio.com/xaser/351336.jpg</thumbnail>
-<urlsolve>http://mikaradio.com/pelis/regreso1.mkv</urlsolve>
+<title>Saga Regreso al futuro</title>
+<thumbnail>http://mikaradio.com/xaser/80.jpg</thumbnail>
+<fanart></fanart>
+<link>http:ignoreme</link>
+<externallink>https://raw.githubusercontent.com/MikaRadio/Xaser/master/regreso1.xml</externallink>
 </item>
